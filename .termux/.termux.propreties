@@ -1,3 +1,5 @@
+a = "amit"
+
 default-working-directory = /data/data/com.termux/files/home
 
 ### Uncomment to not show soft keyboard on application start.
